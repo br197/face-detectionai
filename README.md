@@ -1,3 +1,3 @@
-#demo
+# Demo
 
-this is a beginner face detection app
+this is a beginner face detection app!
